@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Crossover Medical Conferences</string>
+    <string name="admin_string">Admin</string>
+    <string name="doctor_string">Doctor</string>
+    <string name="add_string">Add</string>
+    <string name="send_all_string">Send All</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="update_string">Update</string>
+    <string name="send_string">Send</string>
+    <string name="name_string">Name</string>
+    <string name="date_string">Date</string>
+    <string name="conference_edit_string">Edit Conference</string>
+    
+</resources>
